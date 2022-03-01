@@ -26,3 +26,4 @@ func T(n, s uint64) uint64 {
 	}
 	return res
 }
+//aaa
